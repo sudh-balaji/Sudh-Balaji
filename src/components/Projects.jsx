@@ -14,6 +14,12 @@ const projects = [
    description: "Connect 4 - Assembly",
    githubLink: "https://github.com/sudh-balaji/Connect-4"
  },
+ {
+  id: 3,
+  title: "Growin Buds",
+  description: "Growin Buds - Gardening App",
+  githubLink: "https://github.com/hxpathak/Growin-Buds"
+},
 ];
 
 
